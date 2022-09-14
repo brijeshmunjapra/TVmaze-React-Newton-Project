@@ -1,0 +1,40 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+.navbar{
+  
+  width: 100%;
+  background-color: #E94560;
+}
+.navbartext{
+  margin-top: 12px;
+  margin-left: 50px;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  text-shadow: 0 0px 8px #090d1a;
+}
+
+.navbarinstrcution{
+  color:#171f37;
+  margin-left: 50px;
+  font-size: 20px;
+  font-weight: 400;
+  
+}
+
+.data{
+  background-color: #171f37;
+}
+.radiotext{
+  color: #171f37;
+  font-size: 18px;
+  font-weight: 400;
+}
+.radiobuttons{
+  display: flex;
+  margin-left: 50px;
+}
+
+
